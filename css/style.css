@@ -539,7 +539,7 @@ text-align:center;}
 .mfp-bg { z-index: 99999; }
 /* custom block*/
 .custom-block-image-holder { position: relative; height: 496px; }
-.custom-block-text-box { background: #f6f7f9; padding: 210px 110px; }
+.custom-block-text-box { background: #f6f7f9; padding: 10px 110px; }
 .custom-block { overflow: hidden; }
 .custom-block .container-fluid .row [class*="col-"] { padding-left: 0 !important;  padding-right: 0 !important; }
 .why-choose-us { overflow: hidden; -webkit-backface-visibility: hidden; -webkit-transform-style: preserve-3d; }
